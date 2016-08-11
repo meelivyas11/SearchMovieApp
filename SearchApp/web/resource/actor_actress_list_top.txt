@@ -1,0 +1,1910 @@
+<table>
+<tr class="list_item">
+<th class="listorian active_asc sortable" data-field="listorian" data-dir="desc" title="#">#</th>
+
+<th class="name sortable" data-field="name" data-dir="asc" title="Name">Name</th>
+
+<th class="known_for" data-field="known_for" data-dir="asc" title="Known For">Known For</th>
+
+<th class="birth_date sortable" data-field="birth_date" data-dir="asc" title="Birth Date">Birth Date</th>
+
+<th class="created sortable" data-field="created" data-dir="desc" title="Date">Date</th>
+
+</tr>
+
+<tr data-item-id="933993" class="list_item compact odd">
+<td class="listorian">1.</td>
+<td class="name"><a href="/name/nm0619938">Tatsuya Nakadai</a></td>
+<td class="known_for">Actor, <a href="/title/tt0089881/">Ran</a></td>
+<td class="birth_date">13 December 1932</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934196" class="list_item compact even">
+<td class="listorian">2.</td>
+<td class="name"><a href="/name/nm0000008">Marlon Brando</a></td>
+<td class="known_for">Actor, <a href="/title/tt0068646/">The Godfather</a></td>
+<td class="birth_date">3 April 1924</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934429" class="list_item compact odd">
+
+<td class="listorian">3.</td>
+<td class="name"><a href="/name/nm0000358">Daniel Day-Lewis</a></td>
+<td class="known_for">Actor, <a href="/title/tt0469494/">There Will Be Blood</a></td>
+<td class="birth_date">29 April 1957</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934004" class="list_item compact even">
+<td class="listorian">4.</td>
+<td class="name"><a href="/name/nm0000197">Jack Nicholson</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0081505/">The Shining</a></td>
+<td class="birth_date">22 April 1937</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="933998" class="list_item compact odd">
+<td class="listorian">5.</td>
+<td class="name"><a href="/name/nm0001536">Toshirô Mifune</a></td>
+<td class="known_for">Actor, <a href="/title/tt0047478/">Seven Samurai</a></td>
+
+<td class="birth_date">1 April 1920</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934011" class="list_item compact even">
+<td class="listorian">6.</td>
+<td class="name"><a href="/name/nm0000134">Robert De Niro</a></td>
+<td class="known_for">Actor, <a href="/title/tt0099685/">Goodfellas</a></td>
+<td class="birth_date">17 August 1943</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934006" class="list_item compact odd">
+<td class="listorian">7.</td>
+<td class="name"><a href="/name/nm0000093">Brad Pitt</a></td>
+<td class="known_for">Actor, <a href="/title/tt0114369/">Se7en</a></td>
+<td class="birth_date">18 December 1963</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934425" class="list_item compact even">
+
+<td class="listorian">8.</td>
+<td class="name"><a href="/name/nm0000056">Paul Newman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0064115/">Butch Cassidy and the Sundance Kid</a></td>
+<td class="birth_date">26 January 1925</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934013" class="list_item compact odd">
+<td class="listorian">9.</td>
+<td class="name"><a href="/name/nm0000199">Al Pacino</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0068646/">The Godfather</a></td>
+<td class="birth_date">25 April 1940</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934247" class="list_item compact even">
+<td class="listorian">10.</td>
+<td class="name"><a href="/name/nm0000071">James Stewart</a></td>
+<td class="known_for">Actor, <a href="/title/tt0038650/">It&#x27;s a Wonderful Life</a></td>
+
+<td class="birth_date">20 May 1908</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934226" class="list_item compact odd">
+<td class="listorian">11.</td>
+<td class="name"><a href="/name/nm0000020">Henry Fonda</a></td>
+<td class="known_for">Actor, <a href="/title/tt0064116/">Once Upon a Time in the West</a></td>
+<td class="birth_date">16 May 1905</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934430" class="list_item compact even">
+<td class="listorian">12.</td>
+<td class="name"><a href="/name/nm0000136">Johnny Depp</a></td>
+<td class="known_for">Actor, <a href="/title/tt0099487/">Edward Scissorhands</a></td>
+<td class="birth_date">9 June 1963</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934363" class="list_item compact odd">
+
+<td class="listorian">13.</td>
+<td class="name"><a href="/name/nm0000018">Kirk Douglas</a></td>
+<td class="known_for">Actor, <a href="/title/tt0054331/">Spartacus</a></td>
+<td class="birth_date">9 December 1916</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="935390" class="list_item compact even">
+<td class="listorian">14.</td>
+<td class="name"><a href="/name/nm0000138">Leonardo DiCaprio</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt1375666/">Inception</a></td>
+<td class="birth_date">11 November 1974</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934168" class="list_item compact odd">
+<td class="listorian">15.</td>
+<td class="name"><a href="/name/nm0793766">Takashi Shimura</a></td>
+<td class="known_for">Actor, <a href="/title/tt0047478/">Seven Samurai</a></td>
+
+<td class="birth_date">12 March 1905</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934019" class="list_item compact even">
+<td class="listorian">16.</td>
+<td class="name"><a href="/name/nm0000163">Dustin Hoffman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0079417/">Kramer vs. Kramer</a></td>
+<td class="birth_date">8 August 1937</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="1028984" class="list_item compact odd">
+<td class="listorian">17.</td>
+<td class="name"><a href="/name/nm0000698">Gene Wilder</a></td>
+<td class="known_for">Actor, <a href="/title/tt0072431/">Young Frankenstein</a></td>
+<td class="birth_date">11 June 1933</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934351" class="list_item compact even">
+
+<td class="listorian">18.</td>
+<td class="name"><a href="/name/nm0000634">Peter Sellers</a></td>
+<td class="known_for">Actor, <a href="/title/tt0057012/">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a></td>
+<td class="birth_date">8 September 1925</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934035" class="list_item compact odd">
+<td class="listorian">19.</td>
+<td class="name"><a href="/name/nm0000195">Bill Murray</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0335266/">Lost in Translation</a></td>
+<td class="birth_date">21 September 1950</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934180" class="list_item compact even">
+<td class="listorian">20.</td>
+<td class="name"><a href="/name/nm0000288">Christian Bale</a></td>
+<td class="known_for">Actor, <a href="/title/tt0468569/">The Dark Knight</a></td>
+
+<td class="birth_date">30 January 1974</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1029027" class="list_item compact odd">
+<td class="listorian">21.</td>
+<td class="name"><a href="/name/nm0001691">Geoffrey Rush</a></td>
+<td class="known_for">Actor, <a href="/title/tt0325980/">Pirates of the Caribbean: The Curse of the Black Pearl</a></td>
+<td class="birth_date">6 July 1951</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934159" class="list_item compact even">
+<td class="listorian">22.</td>
+<td class="name"><a href="/name/nm0000245">Robin Williams</a></td>
+<td class="known_for">Actor, <a href="/title/tt0119217/">Good Will Hunting</a></td>
+<td class="birth_date">21 July 1951</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934423" class="list_item compact odd">
+
+<td class="listorian">23.</td>
+<td class="name"><a href="/name/nm0000602">Robert Redford</a></td>
+<td class="known_for">Actor, <a href="/title/tt0064115/">Butch Cassidy and the Sundance Kid</a></td>
+<td class="birth_date">18 August 1936</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934084" class="list_item compact even">
+<td class="listorian">24.</td>
+<td class="name"><a href="/name/nm0000313">Jeff Bridges</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0118715/">The Big Lebowski</a></td>
+<td class="birth_date">4 December 1949</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934082" class="list_item compact odd">
+<td class="listorian">25.</td>
+<td class="name"><a href="/name/nm0000354">Matt Damon</a></td>
+<td class="known_for">Actor, <a href="/title/tt0119217/">Good Will Hunting</a></td>
+
+<td class="birth_date">8 October 1970</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934141" class="list_item compact even">
+<td class="listorian">26.</td>
+<td class="name"><a href="/name/nm0000080">Orson Welles</a></td>
+<td class="known_for">Actor, <a href="/title/tt0033467/">Citizen Kane</a></td>
+<td class="birth_date">6 May 1915</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934365" class="list_item compact odd">
+<td class="listorian">27.</td>
+<td class="name"><a href="/name/nm0000048">Peter Lorre</a></td>
+<td class="known_for">Actor, <a href="/title/tt0034583/">Casablanca</a></td>
+<td class="birth_date">26 June 1904</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934338" class="list_item compact even">
+
+<td class="listorian">28.</td>
+<td class="name"><a href="/name/nm0000228">Kevin Spacey</a></td>
+<td class="known_for">Actor, <a href="/title/tt0169547/">American Beauty</a></td>
+<td class="birth_date">26 July 1959</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934174" class="list_item compact odd">
+<td class="listorian">29.</td>
+<td class="name"><a href="/name/nm0001570">Edward Norton</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0137523/">Fight Club</a></td>
+<td class="birth_date">18 August 1969</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934064" class="list_item compact even">
+<td class="listorian">30.</td>
+<td class="name"><a href="/name/nm0000273">Alan Arkin</a></td>
+<td class="known_for">Actor, <a href="/title/tt0449059/">Little Miss Sunshine</a></td>
+
+<td class="birth_date">26 March 1934</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934275" class="list_item compact odd">
+<td class="listorian">31.</td>
+<td class="name"><a href="/name/nm0000007">Humphrey Bogart</a></td>
+<td class="known_for">Actor, <a href="/title/tt0034583/">Casablanca</a></td>
+<td class="birth_date">25 December 1899</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934188" class="list_item compact even">
+<td class="listorian">32.</td>
+<td class="name"><a href="/name/nm0000128">Russell Crowe</a></td>
+<td class="known_for">Actor, <a href="/title/tt0172495/">Gladiator</a></td>
+<td class="birth_date">7 April 1964</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952459" class="list_item compact odd">
+
+<td class="listorian">33.</td>
+<td class="name"><a href="/name/nm0001426">Ben Kingsley</a></td>
+<td class="known_for">Actor, <a href="/title/tt0108052/">Schindler&#x27;s List</a></td>
+<td class="birth_date">31 December 1943</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934299" class="list_item compact even">
+<td class="listorian">34.</td>
+
+<td class="name"><a href="/name/nm0001806">John Turturro</a></td>
+<td class="known_for">Actor, <a href="/title/tt0190590/">O Brother, Where Art Thou?</a></td>
+<td class="birth_date">28 February 1957</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934255" class="list_item compact odd">
+<td class="listorian">35.</td>
+<td class="name"><a href="/name/nm0000450">Philip Seymour Hoffman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0118715/">The Big Lebowski</a></td>
+
+<td class="birth_date">23 July 1967</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934367" class="list_item compact even">
+<td class="listorian">36.</td>
+<td class="name"><a href="/name/nm0000532">Malcolm McDowell</a></td>
+<td class="known_for">Actor, <a href="/title/tt0066921/">A Clockwork Orange</a></td>
+<td class="birth_date">13 June 1943</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934104" class="list_item compact odd">
+<td class="listorian">37.</td>
+<td class="name"><a href="/name/nm0000246">Bruce Willis</a></td>
+<td class="known_for">Actor, <a href="/title/tt0167404/">The Sixth Sense</a></td>
+<td class="birth_date">19 March 1955</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1029014" class="list_item compact even">
+
+<td class="listorian">38.</td>
+<td class="name"><a href="/name/nm0000469">James Earl Jones</a></td>
+<td class="known_for">Actor, <a href="/title/tt0110357/">The Lion King</a></td>
+<td class="birth_date">17 January 1931</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953748" class="list_item compact odd">
+<td class="listorian">39.</td>
+<td class="name"><a href="/name/nm0000640">Martin Sheen</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0078788/">Apocalypse Now</a></td>
+<td class="birth_date">3 August 1940</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952463" class="list_item compact even">
+<td class="listorian">40.</td>
+<td class="name"><a href="/name/nm0001627">Sidney Poitier</a></td>
+<td class="known_for">Actor, <a href="/title/tt0061811/">In the Heat of the Night</a></td>
+
+<td class="birth_date">20 February 1927</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934179" class="list_item compact odd">
+<td class="listorian">41.</td>
+<td class="name"><a href="/name/nm0000151">Morgan Freeman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0111161/">The Shawshank Redemption</a></td>
+<td class="birth_date">1 June 1937</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934156" class="list_item compact even">
+<td class="listorian">42.</td>
+<td class="name"><a href="/name/nm0000209">Tim Robbins</a></td>
+<td class="known_for">Actor, <a href="/title/tt0111161/">The Shawshank Redemption</a></td>
+<td class="birth_date">16 October 1958</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934311" class="list_item compact odd">
+
+<td class="listorian">43.</td>
+<td class="name"><a href="/name/nm0000158">Tom Hanks</a></td>
+<td class="known_for">Actor, <a href="/title/tt0382625/">The Da Vinci Code</a></td>
+<td class="birth_date">9 July 1956</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934110" class="list_item compact even">
+<td class="listorian">44.</td>
+<td class="name"><a href="/name/nm0000115">Nicolas Cage</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0118880/">Con Air</a></td>
+<td class="birth_date">7 January 1964</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934434" class="list_item compact odd">
+<td class="listorian">45.</td>
+<td class="name"><a href="/name/nm0001715">George C. Scott</a></td>
+<td class="known_for">Actor, <a href="/title/tt0057012/">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a></td>
+
+<td class="birth_date">18 October 1927</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934117" class="list_item compact even">
+<td class="listorian">46.</td>
+<td class="name"><a href="/name/nm0000564">Peter O'Toole</a></td>
+<td class="known_for">Actor, <a href="/title/tt0056172/">Lawrence of Arabia</a></td>
+<td class="birth_date">2 August 1932</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934301" class="list_item compact odd">
+<td class="listorian">47.</td>
+<td class="name"><a href="/name/nm0000114">Steve Buscemi</a></td>
+<td class="known_for">Actor, <a href="/title/tt0116282/">Fargo</a></td>
+<td class="birth_date">13 December 1957</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953795" class="list_item compact even">
+
+<td class="listorian">48.</td>
+<td class="name"><a href="/name/nm0000142">Clint Eastwood</a></td>
+<td class="known_for">Actor, <a href="/title/tt0405159/">Million Dollar Baby</a></td>
+<td class="birth_date">31 May 1930</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953594" class="list_item compact odd">
+<td class="listorian">49.</td>
+<td class="name"><a href="/name/nm0000553">Liam Neeson</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0108052/">Schindler&#x27;s List</a></td>
+<td class="birth_date">7 June 1952</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953696" class="list_item compact even">
+<td class="listorian">50.</td>
+<td class="name"><a href="/name/nm0000671">Billy Bob Thornton</a></td>
+<td class="known_for">Actor, <a href="/title/tt0117666/">Sling Blade</a></td>
+
+<td class="birth_date">4 August 1955</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934371" class="list_item compact odd">
+<td class="listorian">51.</td>
+<td class="name"><a href="/name/nm0000120">Jim Carrey</a></td>
+<td class="known_for">Actor, <a href="/title/tt0338013/">Eternal Sunshine of the Spotless Mind</a></td>
+<td class="birth_date">17 January 1962</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="952484" class="list_item compact even">
+<td class="listorian">52.</td>
+<td class="name"><a href="/name/nm0000075">Spencer Tracy</a></td>
+<td class="known_for">Actor, <a href="/title/tt0055031/">Judgment at Nuremberg</a></td>
+<td class="birth_date">5 April 1900</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934336" class="list_item compact odd">
+
+<td class="listorian">53.</td>
+<td class="name"><a href="/name/nm0001602">Guy Pearce</a></td>
+<td class="known_for">Actor, <a href="/title/tt0209144/">Memento</a></td>
+<td class="birth_date">5 October 1967</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934420" class="list_item compact even">
+<td class="listorian">54.</td>
+<td class="name"><a href="/name/nm0000982">Josh Brolin</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt1175491/">W.</a></td>
+<td class="birth_date">12 February 1968</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934348" class="list_item compact odd">
+<td class="listorian">55.</td>
+<td class="name"><a href="/name/nm0177933">Chris Cooper</a></td>
+<td class="known_for">Actor, <a href="/title/tt0169547/">American Beauty</a></td>
+
+<td class="birth_date">9 July 1951</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964364" class="list_item compact even">
+<td class="listorian">56.</td>
+<td class="name"><a href="/name/nm0000432">Gene Hackman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0105695/">Unforgiven</a></td>
+<td class="birth_date">30 January 1930</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="938942" class="list_item compact odd">
+<td class="listorian">57.</td>
+<td class="name"><a href="/name/nm0350453">Jake Gyllenhaal</a></td>
+<td class="known_for">Actor, <a href="/title/tt0246578/">Donnie Darko</a></td>
+<td class="birth_date">19 December 1980</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="938939" class="list_item compact even">
+
+<td class="listorian">58.</td>
+<td class="name"><a href="/name/nm0005132">Heath Ledger</a></td>
+<td class="known_for">Actor, <a href="/title/tt0468569/">The Dark Knight</a></td>
+<td class="birth_date">4 April 1979</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953338" class="list_item compact odd">
+<td class="listorian">59.</td>
+<td class="name"><a href="/name/nm0000353">Willem Dafoe</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0145487/">Spider-Man</a></td>
+<td class="birth_date">22 July 1955</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953942" class="list_item compact even">
+<td class="listorian">60.</td>
+<td class="name"><a href="/name/nm0316079">Paul Giamatti</a></td>
+<td class="known_for">Actor, <a href="/title/tt0375063/">Sideways</a></td>
+
+<td class="birth_date">6 June 1967</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1038517" class="list_item compact odd">
+<td class="listorian">61.</td>
+<td class="name"><a href="/name/nm0000582">Joe Pesci</a></td>
+<td class="known_for">Actor, <a href="/title/tt0099685/">Goodfellas</a></td>
+<td class="birth_date">9 February 1943</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="953717" class="list_item compact even">
+<td class="listorian">62.</td>
+<td class="name"><a href="/name/nm0001082">Billy Crudup</a></td>
+<td class="known_for">Actor, <a href="/title/tt0181875/">Almost Famous</a></td>
+<td class="birth_date">8 July 1968</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964356" class="list_item compact odd">
+
+<td class="listorian">63.</td>
+<td class="name"><a href="/name/nm0000380">Robert Duvall</a></td>
+<td class="known_for">Actor, <a href="/title/tt0071562/">The Godfather: Part II</a></td>
+<td class="birth_date">5 January 1931</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934437" class="list_item compact even">
+<td class="listorian">64.</td>
+<td class="name"><a href="/name/nm0001125">Benicio Del Toro</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0208092/">Snatch.</a></td>
+<td class="birth_date">19 February 1967</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953728" class="list_item compact odd">
+<td class="listorian">65.</td>
+<td class="name"><a href="/name/nm0000321">Gabriel Byrne</a></td>
+<td class="known_for">Actor, <a href="/title/tt0114814/">The Usual Suspects</a></td>
+
+<td class="birth_date">12 May 1950</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953511" class="list_item compact even">
+<td class="listorian">66.</td>
+<td class="name"><a href="/name/nm0000188">Steve Martin</a></td>
+<td class="known_for">Writer, <a href="/title/tt0079367/">The Jerk</a></td>
+<td class="birth_date">14 August 1945</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934175" class="list_item compact odd">
+<td class="listorian">67.</td>
+<td class="name"><a href="/name/nm0000123">George Clooney</a></td>
+<td class="known_for">Actor, <a href="/title/tt0240772/">Ocean&#x27;s Eleven</a></td>
+<td class="birth_date">6 May 1961</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953715" class="list_item compact even">
+<td class="listorian">68.</td>
+<td class="name"><a href="/name/nm0001215">Albert Finney</a></td>
+<td class="known_for">Actor, <a href="/title/tt0319061/">Big Fish</a></td>
+<td class="birth_date">9 May 1936</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953399" class="list_item compact odd">
+<td class="listorian">69.</td>
+
+<td class="name"><a href="/name/nm0000620">Mickey Rourke</a></td>
+<td class="known_for">Actor, <a href="/title/tt1125849/">The Wrestler</a></td>
+<td class="birth_date">16 September 1952</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953636" class="list_item compact even">
+<td class="listorian">70.</td>
+<td class="name"><a href="/name/nm0000334">Yun-Fat Chow</a></td>
+<td class="known_for">Actor, <a href="/title/tt0190332/">Crouching Tiger, Hidden Dragon</a></td>
+
+<td class="birth_date">18 May 1955</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="965154" class="list_item compact odd">
+<td class="listorian">71.</td>
+<td class="name"><a href="/name/nm0000686">Christopher Walken</a></td>
+<td class="known_for">Actor, <a href="/title/tt0264464/">Catch Me If You Can</a></td>
+<td class="birth_date">31 March 1943</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="953574" class="list_item compact even">
+<td class="listorian">72.</td>
+<td class="name"><a href="/name/nm0000558">Leslie Nielsen</a></td>
+<td class="known_for">Actor, <a href="/title/tt0095705/">The Naked Gun: From the Files of Police Squad!</a></td>
+<td class="birth_date">11 February 1926</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952475" class="list_item compact odd">
+
+<td class="listorian">73.</td>
+<td class="name"><a href="/name/nm0000032">Charlton Heston</a></td>
+<td class="known_for">Actor, <a href="/title/tt0052618/">Ben-Hur</a></td>
+<td class="birth_date">4 October 1923</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953791" class="list_item compact even">
+<td class="listorian">74.</td>
+<td class="name"><a href="/name/nm0000078">John Wayne</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0049730/">The Searchers</a></td>
+<td class="birth_date">26 May 1907</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952477" class="list_item compact odd">
+<td class="listorian">75.</td>
+<td class="name"><a href="/name/nm0000050">Groucho Marx</a></td>
+<td class="known_for">Actor, <a href="/title/tt0023969/">Duck Soup</a></td>
+
+<td class="birth_date">2 October 1890</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952464" class="list_item compact even">
+<td class="listorian">76.</td>
+<td class="name"><a href="/name/nm0000243">Denzel Washington</a></td>
+<td class="known_for">Actor, <a href="/title/tt0765429/">American Gangster</a></td>
+<td class="birth_date">28 December 1954</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="952471" class="list_item compact odd">
+<td class="listorian">77.</td>
+<td class="name"><a href="/name/nm0000989">Yul Brynner</a></td>
+<td class="known_for">Actor, <a href="/title/tt0054047/">The Magnificent Seven</a></td>
+<td class="birth_date">11 July 1920</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1029017" class="list_item compact even">
+
+<td class="listorian">78.</td>
+<td class="name"><a href="/name/nm0000198">Gary Oldman</a></td>
+<td class="known_for">Actor, <a href="/title/tt0110413/">Leon: The Professional</a></td>
+<td class="birth_date">21 March 1958</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934290" class="list_item compact odd">
+<td class="listorian">79.</td>
+<td class="name"><a href="/name/nm0185819">Daniel Craig</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0381061/">Casino Royale</a></td>
+<td class="birth_date">2 March 1968</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="969394" class="list_item compact even">
+<td class="listorian">80.</td>
+<td class="name"><a href="/name/nm0000026">Cary Grant</a></td>
+<td class="known_for">Actor, <a href="/title/tt0053125/">North by Northwest</a></td>
+
+<td class="birth_date">18 January 1904</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953743" class="list_item compact odd">
+<td class="listorian">81.</td>
+<td class="name"><a href="/name/nm0000221">Charlie Sheen</a></td>
+<td class="known_for">Actor, <a href="/title/tt0094291/">Wall Street</a></td>
+<td class="birth_date">3 September 1965</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="934433" class="list_item compact even">
+<td class="listorian">82.</td>
+<td class="name"><a href="/name/nm0000576">Sean Penn</a></td>
+<td class="known_for">Actor, <a href="/title/tt0327056/">Mystic River</a></td>
+<td class="birth_date">17 August 1960</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952480" class="list_item compact odd">
+
+<td class="listorian">83.</td>
+<td class="name"><a href="/name/nm0000122">Charles Chaplin</a></td>
+<td class="known_for">Writer, <a href="/title/tt0032553/">The Great Dictator</a></td>
+<td class="birth_date">16 April 1889</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952483" class="list_item compact even">
+<td class="listorian">84.</td>
+<td class="name"><a href="/name/nm0000036">Buster Keaton</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0017925/">The General</a></td>
+<td class="birth_date">4 October 1895</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952490" class="list_item compact odd">
+<td class="listorian">85.</td>
+<td class="name"><a href="/name/nm0000164">Anthony Hopkins</a></td>
+<td class="known_for">Actor, <a href="/title/tt0102926/">The Silence of the Lambs</a></td>
+
+<td class="birth_date">31 December 1937</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934183" class="list_item compact even">
+<td class="listorian">86.</td>
+<td class="name"><a href="/name/nm0000606">Jean Reno</a></td>
+<td class="known_for">Actor, <a href="/title/tt0110413/">Leon: The Professional</a></td>
+<td class="birth_date">30 July 1948</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="952498" class="list_item compact odd">
+<td class="listorian">87.</td>
+<td class="name"><a href="/name/nm0001001">James Caan</a></td>
+<td class="known_for">Actor, <a href="/title/tt0068646/">The Godfather</a></td>
+<td class="birth_date">26 March 1940</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="952502" class="list_item compact even">
+
+<td class="listorian">88.</td>
+<td class="name"><a href="/name/nm0000685">Jon Voight</a></td>
+<td class="known_for">Actor, <a href="/title/tt0113277/">Heat</a></td>
+<td class="birth_date">29 December 1938</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964432" class="list_item compact odd">
+<td class="listorian">89.</td>
+<td class="name"><a href="/name/nm0001557">Viggo Mortensen</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0399146/">A History of Violence</a></td>
+<td class="birth_date">20 October 1958</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953403" class="list_item compact even">
+<td class="listorian">90.</td>
+<td class="name"><a href="/name/nm0000375">Robert Downey Jr.</a></td>
+<td class="known_for">Actor, <a href="/title/tt0371746/">Iron Man</a></td>
+
+<td class="birth_date">4 April 1965</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953892" class="list_item compact odd">
+<td class="listorian">91.</td>
+<td class="name"><a href="/name/nm0000323">Michael Caine</a></td>
+<td class="known_for">Actor, <a href="/title/tt0468569/">The Dark Knight</a></td>
+<td class="birth_date">14 March 1933</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="952493" class="list_item compact even">
+<td class="listorian">92.</td>
+<td class="name"><a href="/name/nm0001224">Errol Flynn</a></td>
+<td class="known_for">Actor, <a href="/title/tt0029843/">The Adventures of Robin Hood</a></td>
+<td class="birth_date">20 June 1909</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="934427" class="list_item compact odd">
+
+<td class="listorian">93.</td>
+<td class="name"><a href="/name/nm0000249">James Woods</a></td>
+<td class="known_for">Actor, <a href="/title/tt0087843/">Once Upon a Time in America</a></td>
+<td class="birth_date">18 April 1947</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953605" class="list_item compact even">
+<td class="listorian">94.</td>
+<td class="name"><a href="/name/nm0000022">Clark Gable</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0025316/">It Happened One Night</a></td>
+<td class="birth_date">1 February 1901</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953612" class="list_item compact odd">
+<td class="listorian">95.</td>
+<td class="name"><a href="/name/nm0001195">Douglas Fairbanks Jr.</a></td>
+<td class="known_for">Actor, <a href="/title/tt0021079/">Little Caesar</a></td>
+
+<td class="birth_date">9 December 1909</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953615" class="list_item compact even">
+<td class="listorian">96.</td>
+<td class="name"><a href="/name/nm0001196">Douglas Fairbanks</a></td>
+<td class="known_for">Actor, <a href="/title/tt0015400/">The Thief of Bagdad</a></td>
+<td class="birth_date">23 May 1883</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="953619" class="list_item compact odd">
+<td class="listorian">97.</td>
+<td class="name"><a href="/name/nm0884388">Rudolph Valentino</a></td>
+<td class="known_for">Actor, <a href="/title/tt0017416/">The Son of the Sheik</a></td>
+<td class="birth_date">6 May 1895</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953885" class="list_item compact even">
+
+<td class="listorian">98.</td>
+<td class="name"><a href="/name/nm0000059">Laurence Olivier</a></td>
+<td class="known_for">Actor, <a href="/title/tt0032976/">Rebecca</a></td>
+<td class="birth_date">22 May 1907</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953713" class="list_item compact odd">
+<td class="listorian">99.</td>
+<td class="name"><a href="/name/nm0000191">Ewan McGregor</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0117951/">Trainspotting</a></td>
+<td class="birth_date">31 March 1971</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953787" class="list_item compact even">
+<td class="listorian">100.</td>
+<td class="name"><a href="/name/nm0000394">Chris Farley</a></td>
+<td class="known_for">Actor, <a href="/title/tt0114694/">Tommy Boy</a></td>
+
+<td class="birth_date">15 February 1964</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953921" class="list_item compact odd">
+<td class="listorian">101.</td>
+<td class="name"><a href="/name/nm0862937">Lawrence Tierney</a></td>
+<td class="known_for">Actor, <a href="/title/tt0105236/">Reservoir Dogs</a></td>
+<td class="birth_date">15 March 1919</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="954013" class="list_item compact even">
+<td class="listorian">102.</td>
+<td class="name"><a href="/name/nm0002011">Lee J. Cobb</a></td>
+<td class="known_for">Actor, <a href="/title/tt0050083/">12 Angry Men</a></td>
+<td class="birth_date">8 December 1911</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964354" class="list_item compact odd">
+
+<td class="listorian">103.</td>
+<td class="name"><a href="/name/nm0000454">Dennis Hopper</a></td>
+<td class="known_for">Actor, <a href="/title/tt0111257/">Speed</a></td>
+<td class="birth_date">17 May 1936</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964373" class="list_item compact even">
+<td class="listorian">104.</td>
+<td class="name"><a href="/name/nm0001620">Slim Pickens</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0057012/">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a></td>
+<td class="birth_date">29 June 1919</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964381" class="list_item compact odd">
+<td class="listorian">105.</td>
+<td class="name"><a href="/name/nm0132257">Bruce Campbell</a></td>
+<td class="known_for">Actor, <a href="/title/tt0106308/">Army of Darkness</a></td>
+
+<td class="birth_date">22 June 1958</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="964396" class="list_item compact even">
+<td class="listorian">106.</td>
+<td class="name"><a href="/name/nm0001511">Lee Marvin</a></td>
+<td class="known_for">Actor, <a href="/title/tt0061578/">The Dirty Dozen</a></td>
+<td class="birth_date">19 February 1924</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="964403" class="list_item compact odd">
+<td class="listorian">107.</td>
+<td class="name"><a href="/name/nm0000314">Charles Bronson</a></td>
+<td class="known_for">Actor, <a href="/title/tt0064116/">Once Upon a Time in the West</a></td>
+<td class="birth_date">3 November 1921</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953834" class="list_item compact even">
+
+<td class="listorian">108.</td>
+<td class="name"><a href="/name/nm0000316">Mel Brooks</a></td>
+<td class="known_for">Actor, <a href="/title/tt0395251/">The Producers</a></td>
+<td class="birth_date">28 June 1926</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="953708" class="list_item compact odd">
+<td class="listorian">109.</td>
+<td class="name"><a href="/name/nm0000285">Alec Baldwin</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0407887/">The Departed</a></td>
+<td class="birth_date">3 April 1958</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1028998" class="list_item compact even">
+<td class="listorian">110.</td>
+<td class="name"><a href="/name/nm0001651">Basil Rathbone</a></td>
+<td class="known_for">Actor, <a href="/title/tt0029843/">The Adventures of Robin Hood</a></td>
+
+<td class="birth_date">13 June 1892</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1028999" class="list_item compact odd">
+<td class="listorian">111.</td>
+<td class="name"><a href="/name/nm0001637">Vincent Price</a></td>
+<td class="known_for">Actor, <a href="/title/tt0099487/">Edward Scissorhands</a></td>
+<td class="birth_date">27 May 1911</td>
+<td class="created">10 months ago</td>
+
+</tr>
+
+<tr data-item-id="1029001" class="list_item compact even">
+<td class="listorian">112.</td>
+<td class="name"><a href="/name/nm0000509">Bela Lugosi</a></td>
+<td class="known_for">Actor, <a href="/title/tt0021814/">Dracula</a></td>
+<td class="birth_date">20 October 1882</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1029005" class="list_item compact odd">
+
+<td class="listorian">113.</td>
+<td class="name"><a href="/name/nm0000493">Jack Lemmon</a></td>
+<td class="known_for">Actor, <a href="/title/tt0053604/">The Apartment</a></td>
+<td class="birth_date">8 February 1925</td>
+<td class="created">10 months ago</td>
+</tr>
+
+<tr data-item-id="1029007" class="list_item compact even">
+<td class="listorian">114.</td>
+<td class="name"><a href="/name/nm0000527">Walter Matthau</a></td>
+
+<td class="known_for">Actor, <a href="/title/tt0056923/">Charade</a></td>
+<td class="birth_date">1 October 1920</td>
+<td class="created">10 months ago</td>
+</tr>
+
+</table>
+<table>
+<tr class="list_item">
+<th class="listorian active_asc sortable" data-field="listorian" data-dir="desc" title="#">#</th>
+
+<th class="name sortable" data-field="name" data-dir="asc" title="Name">Name</th>
+
+<th class="known_for" data-field="known_for" data-dir="asc" title="Known For">Known For</th>
+
+<th class="birth_date sortable" data-field="birth_date" data-dir="asc" title="Birth Date">Birth Date</th>
+
+<th class="created sortable" data-field="created" data-dir="desc" title="Date">Date</th>
+
+</tr>
+
+<tr data-item-id="269356" class="list_item compact odd">
+<td class="listorian">1.</td>
+<td class="name"><a href="/name/nm0000658">Meryl Streep</a></td>
+<td class="known_for">Actress, <a href="/title/tt0458352/">The Devil Wears Prada</a></td>
+<td class="birth_date">22 June 1949</td>
+
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269359" class="list_item compact even">
+<td class="listorian">2.</td>
+<td class="name"><a href="/name/nm0000473">Diane Keaton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0071562/">The Godfather: Part II</a></td>
+<td class="birth_date">5 January 1946</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269360" class="list_item compact odd">
+<td class="listorian">3.</td>
+<td class="name"><a href="/name/nm0000215">Susan Sarandon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0103074/">Thelma &#x26; Louise</a></td>
+<td class="birth_date">4 October 1946</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269364" class="list_item compact even">
+<td class="listorian">4.</td>
+<td class="name"><a href="/name/nm0001450">Angela Lansbury</a></td>
+<td class="known_for">Actress, <a href="/title/tt0101414/">Beauty and the Beast</a></td>
+<td class="birth_date">16 October 1925</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269368" class="list_item compact odd">
+<td class="listorian">5.</td>
+
+<td class="name"><a href="/name/nm0000949">Cate Blanchett</a></td>
+<td class="known_for">Actress, <a href="/title/tt0421715/">The Curious Case of Benjamin Button</a></td>
+<td class="birth_date">14 May 1969</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269370" class="list_item compact even">
+<td class="listorian">6.</td>
+<td class="name"><a href="/name/nm0001749">Maggie Smith</a></td>
+<td class="known_for">Actress, <a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a></td>
+
+<td class="birth_date">28 December 1934</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269373" class="list_item compact odd">
+<td class="listorian">7.</td>
+<td class="name"><a href="/name/nm0000244">Sigourney Weaver</a></td>
+<td class="known_for">Actress, <a href="/title/tt0090605/">Aliens</a></td>
+<td class="birth_date">8 October 1949</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269376" class="list_item compact even">
+<td class="listorian">8.</td>
+<td class="name"><a href="/name/nm0000201">Michelle Pfeiffer</a></td>
+<td class="known_for">Actress, <a href="/title/tt0086250/">Scarface</a></td>
+<td class="birth_date">29 April 1958</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269380" class="list_item compact odd">
+
+<td class="listorian">9.</td>
+<td class="name"><a href="/name/nm0000307">Helena Bonham Carter</a></td>
+<td class="known_for">Actress, <a href="/title/tt0137523/">Fight Club</a></td>
+<td class="birth_date">26 May 1966</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269383" class="list_item compact even">
+<td class="listorian">10.</td>
+<td class="name"><a href="/name/nm0001876">Catherine Zeta-Jones</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0299658/">Chicago</a></td>
+<td class="birth_date">25 September 1969</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269388" class="list_item compact odd">
+<td class="listorian">11.</td>
+<td class="name"><a href="/name/nm0000668">Emma Thompson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0114388/">Sense and Sensibility</a></td>
+
+<td class="birth_date">15 April 1959</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269393" class="list_item compact even">
+<td class="listorian">12.</td>
+<td class="name"><a href="/name/nm0000398">Sally Field</a></td>
+<td class="known_for">Actress, <a href="/title/tt0109830/">Forrest Gump</a></td>
+<td class="birth_date">6 November 1946</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269395" class="list_item compact odd">
+<td class="listorian">13.</td>
+<td class="name"><a href="/name/nm0001132">Judi Dench</a></td>
+<td class="known_for">Actress, <a href="/title/tt0381061/">Casino Royale</a></td>
+<td class="birth_date">9 December 1934</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269399" class="list_item compact even">
+
+<td class="listorian">14.</td>
+<td class="name"><a href="/name/nm0000870">Kathy Bates</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120338/">Titanic</a></td>
+<td class="birth_date">28 June 1948</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269402" class="list_item compact odd">
+<td class="listorian">15.</td>
+<td class="name"><a href="/name/nm0000193">Demi Moore</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0099653/">Ghost</a></td>
+<td class="birth_date">11 November 1962</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269403" class="list_item compact even">
+<td class="listorian">16.</td>
+<td class="name"><a href="/name/nm0000194">Julianne Moore</a></td>
+<td class="known_for">Actress, <a href="/title/tt0175880/">Magnolia</a></td>
+
+<td class="birth_date">3 December 1960</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269406" class="list_item compact odd">
+<td class="listorian">17.</td>
+<td class="name"><a href="/name/nm0842770">Tilda Swinton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0268126/">Adaptation.</a></td>
+<td class="birth_date">5 November 1960</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269410" class="list_item compact even">
+<td class="listorian">18.</td>
+<td class="name"><a href="/name/nm0000463">Famke Janssen</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120903/">X-Men</a></td>
+<td class="birth_date">5 November 1964</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269413" class="list_item compact odd">
+
+<td class="listorian">19.</td>
+<td class="name"><a href="/name/nm0010736">Amy Adams</a></td>
+<td class="known_for">Actress, <a href="/title/tt0461770/">Enchanted</a></td>
+<td class="birth_date">20 August 1974</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269414" class="list_item compact even">
+<td class="listorian">20.</td>
+<td class="name"><a href="/name/nm1289434">Emily Blunt</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0458352/">The Devil Wears Prada</a></td>
+<td class="birth_date">23 February 1983</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269417" class="list_item compact odd">
+<td class="listorian">21.</td>
+<td class="name"><a href="/name/nm0000260">Joan Allen</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119094/">Face/Off</a></td>
+
+<td class="birth_date">20 August 1956</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269418" class="list_item compact even">
+<td class="listorian">22.</td>
+<td class="name"><a href="/name/nm0000149">Jodie Foster</a></td>
+<td class="known_for">Actress, <a href="/title/tt0102926/">The Silence of the Lambs</a></td>
+<td class="birth_date">19 November 1962</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269420" class="list_item compact odd">
+<td class="listorian">23.</td>
+<td class="name"><a href="/name/nm0000267">Julie Andrews</a></td>
+<td class="known_for">Actress, <a href="/title/tt0059742/">The Sound of Music</a></td>
+<td class="birth_date">1 October 1935</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269421" class="list_item compact even">
+
+<td class="listorian">24.</td>
+<td class="name"><a href="/name/nm0001784">Gloria Stuart</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120338/">Titanic</a></td>
+<td class="birth_date">4 July 1910</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269424" class="list_item compact odd">
+<td class="listorian">25.</td>
+<td class="name"><a href="/name/nm0000030">Audrey Hepburn</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0054698/">Breakfast at Tiffany&#x27;s</a></td>
+<td class="birth_date">4 May 1929</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269428" class="list_item compact even">
+<td class="listorian">26.</td>
+<td class="name"><a href="/name/nm0000531">Frances McDormand</a></td>
+<td class="known_for">Actress, <a href="/title/tt0181875/">Almost Famous</a></td>
+
+<td class="birth_date">23 June 1957</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269431" class="list_item compact odd">
+<td class="listorian">27.</td>
+<td class="name"><a href="/name/nm0001666">Debbie Reynolds</a></td>
+<td class="known_for">Actress, <a href="/title/tt0045152/">Singin&#x27; in the Rain</a></td>
+<td class="birth_date">1 April 1932</td>
+
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269433" class="list_item compact even">
+<td class="listorian">28.</td>
+<td class="name"><a href="/name/nm0001735">Talia Shire</a></td>
+<td class="known_for">Actress, <a href="/title/tt0075148/">Rocky</a></td>
+<td class="birth_date">25 April 1946</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269434" class="list_item compact odd">
+<td class="listorian">29.</td>
+<td class="name"><a href="/name/nm0000261">Karen Allen</a></td>
+<td class="known_for">Actress, <a href="/title/tt0082971/">Raiders of the Lost Ark</a></td>
+<td class="birth_date">5 October 1951</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269435" class="list_item compact even">
+<td class="listorian">30.</td>
+
+<td class="name"><a href="/name/nm0000235">Uma Thurman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0266697/">Kill Bill: Vol. 1</a></td>
+<td class="birth_date">29 April 1970</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269437" class="list_item compact odd">
+<td class="listorian">31.</td>
+<td class="name"><a href="/name/nm0001473">Laura Linney</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120382/">The Truman Show</a></td>
+
+<td class="birth_date">5 February 1964</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269440" class="list_item compact even">
+<td class="listorian">32.</td>
+<td class="name"><a href="/name/nm0000099">Patricia Arquette</a></td>
+<td class="known_for">Actress, <a href="/title/tt0108399/">True Romance</a></td>
+<td class="birth_date">8 April 1968</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269442" class="list_item compact odd">
+<td class="listorian">33.</td>
+<td class="name"><a href="/name/nm0000002">Lauren Bacall</a></td>
+<td class="known_for">Actress, <a href="/title/tt0038355/">The Big Sleep</a></td>
+<td class="birth_date">16 September 1924</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269446" class="list_item compact even">
+
+<td class="listorian">34.</td>
+<td class="name"><a href="/name/nm0000541">Bette Midler</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0094715/">Beaches</a></td>
+<td class="birth_date">1 December 1945</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269447" class="list_item compact odd">
+<td class="listorian">35.</td>
+<td class="name"><a href="/name/nm0526985">Patti LuPone</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0097239/">Driving Miss Daisy</a></td>
+<td class="birth_date">21 April 1949</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269449" class="list_item compact even">
+<td class="listorian">36.</td>
+<td class="name"><a href="/name/nm0687189">Suzanne Pleshette</a></td>
+<td class="known_for">Actress, <a href="/title/tt0056869/">The Birds</a></td>
+
+<td class="birth_date">31 January 1937</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269493" class="list_item compact odd">
+<td class="listorian">37.</td>
+<td class="name"><a href="/name/nm0000906">Annette Bening</a></td>
+<td class="known_for">Actress, <a href="/title/tt0169547/">American Beauty</a></td>
+<td class="birth_date">29 May 1958</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269453" class="list_item compact even">
+<td class="listorian">38.</td>
+<td class="name"><a href="/name/nm0350454">Maggie Gyllenhaal</a></td>
+<td class="known_for">Actress, <a href="/title/tt0468569/">The Dark Knight</a></td>
+<td class="birth_date">16 November 1977</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269461" class="list_item compact odd">
+
+<td class="listorian">39.</td>
+<td class="name"><a href="/name/nm0000545">Helen Mirren</a></td>
+<td class="known_for">Actress, <a href="/title/tt0436697/">The Queen</a></td>
+<td class="birth_date">26 July 1945</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269465" class="list_item compact even">
+<td class="listorian">40.</td>
+<td class="name"><a href="/name/nm0000113">Sandra Bullock</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt1041829/">The Proposal</a></td>
+<td class="birth_date">26 July 1964</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269469" class="list_item compact odd">
+<td class="listorian">41.</td>
+<td class="name"><a href="/name/nm0001159">Faye Dunaway</a></td>
+<td class="known_for">Actress, <a href="/title/tt0071315/">Chinatown</a></td>
+
+<td class="birth_date">14 January 1941</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269474" class="list_item compact even">
+<td class="listorian">42.</td>
+<td class="name"><a href="/name/nm0001613">Bernadette Peters</a></td>
+<td class="known_for">Actress, <a href="/title/tt0118617/">Anastasia</a></td>
+<td class="birth_date">28 February 1948</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269476" class="list_item compact odd">
+<td class="listorian">43.</td>
+<td class="name"><a href="/name/nm0001448">Jessica Lange</a></td>
+<td class="known_for">Actress, <a href="/title/tt0319061/">Big Fish</a></td>
+<td class="birth_date">20 April 1949</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269477" class="list_item compact even">
+
+<td class="listorian">44.</td>
+<td class="name"><a href="/name/nm0000157">Linda Hamilton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0103064/">Terminator 2: Judgment Day</a></td>
+<td class="birth_date">26 September 1956</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269479" class="list_item compact odd">
+<td class="listorian">45.</td>
+<td class="name"><a href="/name/nm0461136">Keira Knightley</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0325980/">Pirates of the Caribbean: The Curse of the Black Pearl</a></td>
+<td class="birth_date">26 March 1985</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269480" class="list_item compact even">
+<td class="listorian">46.</td>
+<td class="name"><a href="/name/nm0000335">Glenn Close</a></td>
+<td class="known_for">Actress, <a href="/title/tt0116996/">Mars Attacks!</a></td>
+
+<td class="birth_date">19 March 1947</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269483" class="list_item compact odd">
+<td class="listorian">47.</td>
+<td class="name"><a href="/name/nm0000124">Jennifer Connelly</a></td>
+<td class="known_for">Actress, <a href="/title/tt0180093/">Requiem for a Dream</a></td>
+<td class="birth_date">12 December 1970</td>
+<td class="created">22 Nov 2010</td>
+
+</tr>
+
+<tr data-item-id="269485" class="list_item compact even">
+<td class="listorian">48.</td>
+<td class="name"><a href="/name/nm0000701">Kate Winslet</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120338/">Titanic</a></td>
+<td class="birth_date">5 October 1975</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269498" class="list_item compact odd">
+
+<td class="listorian">49.</td>
+<td class="name"><a href="/name/nm0001838">Rachel Weisz</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120616/">The Mummy</a></td>
+<td class="birth_date">7 March 1970</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="269501" class="list_item compact even">
+<td class="listorian">50.</td>
+<td class="name"><a href="/name/nm0182839">Marion Cotillard</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt1375666/">Inception</a></td>
+<td class="birth_date">30 September 1975</td>
+<td class="created">22 Nov 2010</td>
+</tr>
+
+<tr data-item-id="353867" class="list_item compact odd">
+<td class="listorian">51.</td>
+<td class="name"><a href="/name/nm0001833">Emily Watson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0115751/">Breaking the Waves</a></td>
+
+<td class="birth_date">14 January 1967</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353872" class="list_item compact even">
+<td class="listorian">52.</td>
+<td class="name"><a href="/name/nm0000515">Virginia Madsen</a></td>
+<td class="known_for">Actress, <a href="/title/tt0375063/">Sideways</a></td>
+<td class="birth_date">11 September 1961</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="353878" class="list_item compact odd">
+<td class="listorian">53.</td>
+<td class="name"><a href="/name/nm0001573">Catherine O'Hara</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107688/">The Nightmare Before Christmas</a></td>
+<td class="birth_date">4 March 1954</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353886" class="list_item compact even">
+
+<td class="listorian">54.</td>
+<td class="name"><a href="/name/nm0001463">Janet Leigh</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054215/">Psycho</a></td>
+<td class="birth_date">6 July 1927</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353890" class="list_item compact odd">
+<td class="listorian">55.</td>
+<td class="name"><a href="/name/nm0001404">Madeline Kahn</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0072431/">Young Frankenstein</a></td>
+<td class="birth_date">29 September 1942</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353894" class="list_item compact even">
+<td class="listorian">56.</td>
+<td class="name"><a href="/name/nm0001669">Miranda Richardson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0162661/">Sleepy Hollow</a></td>
+
+<td class="birth_date">3 March 1958</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353897" class="list_item compact odd">
+<td class="listorian">57.</td>
+<td class="name"><a href="/name/nm0001458">Cloris Leachman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0072431/">Young Frankenstein</a></td>
+<td class="birth_date">30 April 1926</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="353901" class="list_item compact even">
+<td class="listorian">58.</td>
+<td class="name"><a href="/name/nm0001848">Dianne Wiest</a></td>
+<td class="known_for">Actress, <a href="/title/tt0099487/">Edward Scissorhands</a></td>
+<td class="birth_date">28 March 1948</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353903" class="list_item compact odd">
+
+<td class="listorian">59.</td>
+<td class="name"><a href="/name/nm0000705">Robin Wright</a></td>
+<td class="known_for">Actress, <a href="/title/tt0442933/">Beowulf</a></td>
+<td class="birth_date">8 April 1966</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353908" class="list_item compact even">
+<td class="listorian">60.</td>
+<td class="name"><a href="/name/nm0001808">Tracey Ullman</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0121164/">Corpse Bride</a></td>
+<td class="birth_date">30 December 1959</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353912" class="list_item compact odd">
+<td class="listorian">61.</td>
+<td class="name"><a href="/name/nm0528331">Jane Lynch</a></td>
+<td class="known_for">Actress, <a href="/title/tt0415306/">Talladega Nights: The Ballad of Ricky Bobby</a></td>
+
+<td class="birth_date">14 July 1960</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353914" class="list_item compact even">
+<td class="listorian">62.</td>
+<td class="name"><a href="/name/nm0001372">Bonnie Hunt</a></td>
+<td class="known_for">Writer, <a href="/title/tt0317219/">Cars</a></td>
+<td class="birth_date">22 September 1961</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="353919" class="list_item compact odd">
+<td class="listorian">63.</td>
+<td class="name"><a href="/name/nm0000368">Laura Dern</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107290/">Jurassic Park</a></td>
+<td class="birth_date">10 February 1967</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353923" class="list_item compact even">
+
+<td class="listorian">64.</td>
+<td class="name"><a href="/name/nm0000506">Julia Louis-Dreyfus</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120623/">A Bug&#x27;s Life</a></td>
+<td class="birth_date">13 January 1961</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353927" class="list_item compact odd">
+<td class="listorian">65.</td>
+
+<td class="name"><a href="/name/nm0005460">Mary Steenburgen</a></td>
+<td class="known_for">Actress, <a href="/title/tt1041829/">The Proposal</a></td>
+<td class="birth_date">8 February 1953</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353930" class="list_item compact even">
+<td class="listorian">66.</td>
+<td class="name"><a href="/name/nm0004724">Christine Baranski</a></td>
+<td class="known_for">Actress, <a href="/title/tt0170016/">How the Grinch Stole Christmas</a></td>
+
+<td class="birth_date">2 May 1952</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353932" class="list_item compact odd">
+<td class="listorian">67.</td>
+<td class="name"><a href="/name/nm0525921">Joanna Lumley</a></td>
+<td class="known_for">Actress, <a href="/title/tt0121164/">Corpse Bride</a></td>
+<td class="birth_date">1 May 1946</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="353935" class="list_item compact even">
+<td class="listorian">68.</td>
+<td class="name"><a href="/name/nm0625075">Kate Nelligan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0111742/">Wolf</a></td>
+<td class="birth_date">16 March 1950</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353942" class="list_item compact odd">
+
+<td class="listorian">69.</td>
+<td class="name"><a href="/name/nm0000993">Carol Burnett</a></td>
+<td class="known_for">Actress, <a href="/title/tt0451079/">Horton Hears a Who!</a></td>
+<td class="birth_date">26 April 1933</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353945" class="list_item compact even">
+<td class="listorian">70.</td>
+<td class="name"><a href="/name/nm0000414">Teri Garr</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0075860/">Close Encounters of the Third Kind</a></td>
+<td class="birth_date">11 December 1947</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353949" class="list_item compact odd">
+<td class="listorian">71.</td>
+<td class="name"><a href="/name/nm0005466">Julia Stiles</a></td>
+<td class="known_for">Actress, <a href="/title/tt0440963/">The Bourne Ultimatum</a></td>
+
+<td class="birth_date">28 March 1981</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353988" class="list_item compact even">
+<td class="listorian">72.</td>
+<td class="name"><a href="/name/nm0000006">Ingrid Bergman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0034583/">Casablanca</a></td>
+<td class="birth_date">29 August 1915</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="353991" class="list_item compact odd">
+<td class="listorian">73.</td>
+<td class="name"><a href="/name/nm0000012">Bette Davis</a></td>
+<td class="known_for">Actress, <a href="/title/tt0042192/">All About Eve</a></td>
+<td class="birth_date">5 April 1908</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="353998" class="list_item compact even">
+
+<td class="listorian">74.</td>
+<td class="name"><a href="/name/nm0001021">Veronica Cartwright</a></td>
+<td class="known_for">Actress, <a href="/title/tt0078748/">Alien</a></td>
+<td class="birth_date">20 April 1949</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354003" class="list_item compact odd">
+<td class="listorian">75.</td>
+<td class="name"><a href="/name/nm0001180">Britt Ekland</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0071807/">The Man with the Golden Gun</a></td>
+<td class="birth_date">6 October 1942</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354006" class="list_item compact even">
+<td class="listorian">76.</td>
+<td class="name"><a href="/name/nm0001315">Marcia Gay Harden</a></td>
+<td class="known_for">Actress, <a href="/title/tt0758758/">Into the Wild</a></td>
+
+<td class="birth_date">14 August 1959</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354011" class="list_item compact odd">
+<td class="listorian">77.</td>
+<td class="name"><a href="/name/nm0001670">Natasha Richardson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0252076/">Maid in Manhattan</a></td>
+<td class="birth_date">11 May 1963</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="354017" class="list_item compact even">
+<td class="listorian">78.</td>
+<td class="name"><a href="/name/nm0000843">Anne Bancroft</a></td>
+<td class="known_for">Actress, <a href="/title/tt0061722/">The Graduate</a></td>
+<td class="birth_date">17 September 1931</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354020" class="list_item compact odd">
+
+<td class="listorian">79.</td>
+<td class="name"><a href="/name/nm0000456">Holly Hunter</a></td>
+<td class="known_for">Actress, <a href="/title/tt0317705/">The Incredibles</a></td>
+<td class="birth_date">20 March 1958</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354025" class="list_item compact even">
+<td class="listorian">80.</td>
+<td class="name"><a href="/name/nm0165101">Patricia Clarkson</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt1130884/">Shutter Island</a></td>
+<td class="birth_date">29 December 1959</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354029" class="list_item compact odd">
+<td class="listorian">81.</td>
+<td class="name"><a href="/name/nm0001378">Anjelica Huston</a></td>
+<td class="known_for">Actress, <a href="/title/tt0265666/">The Royal Tenenbaums</a></td>
+
+<td class="birth_date">8 July 1951</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354033" class="list_item compact even">
+<td class="listorian">82.</td>
+<td class="name"><a href="/name/nm0000511">Shirley MacLaine</a></td>
+<td class="known_for">Actress, <a href="/title/tt0053604/">The Apartment</a></td>
+<td class="birth_date">24 April 1934</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="354035" class="list_item compact odd">
+<td class="listorian">83.</td>
+<td class="name"><a href="/name/nm0000378">Minnie Driver</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119217/">Good Will Hunting</a></td>
+<td class="birth_date">31 January 1970</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354041" class="list_item compact even">
+
+<td class="listorian">84.</td>
+<td class="name"><a href="/name/nm0000400">Linda Fiorentino</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119654/">Men in Black</a></td>
+<td class="birth_date">9 March 1958</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354044" class="list_item compact odd">
+<td class="listorian">85.</td>
+<td class="name"><a href="/name/nm0000212">Meg Ryan</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0108160/">Sleepless in Seattle</a></td>
+<td class="birth_date">19 November 1961</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354049" class="list_item compact even">
+<td class="listorian">86.</td>
+<td class="name"><a href="/name/nm0000133">Geena Davis</a></td>
+<td class="known_for">Actress, <a href="/title/tt0094721/">Beetlejuice</a></td>
+
+<td class="birth_date">21 January 1956</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354051" class="list_item compact odd">
+<td class="listorian">87.</td>
+<td class="name"><a href="/name/nm0000510">Andie MacDowell</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107048/">Groundhog Day</a></td>
+<td class="birth_date">21 April 1958</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="354056" class="list_item compact even">
+<td class="listorian">88.</td>
+<td class="name"><a href="/name/nm0001416">Catherine Keener</a></td>
+<td class="known_for">Actress, <a href="/title/tt0405422/">The 40 Year Old Virgin</a></td>
+<td class="birth_date">23 March 1959</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354059" class="list_item compact odd">
+
+<td class="listorian">89.</td>
+<td class="name"><a href="/name/nm0000673">Marisa Tomei</a></td>
+<td class="known_for">Actress, <a href="/title/tt1125849/">The Wrestler</a></td>
+<td class="birth_date">4 December 1964</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354067" class="list_item compact even">
+<td class="listorian">90.</td>
+<td class="name"><a href="/name/nm0000435">Daryl Hannah</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0266697/">Kill Bill: Vol. 1</a></td>
+<td class="birth_date">3 December 1960</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354071" class="list_item compact odd">
+<td class="listorian">91.</td>
+<td class="name"><a href="/name/nm0005476">Hilary Swank</a></td>
+<td class="known_for">Actress, <a href="/title/tt0405159/">Million Dollar Baby</a></td>
+
+<td class="birth_date">30 July 1974</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354077" class="list_item compact even">
+<td class="listorian">92.</td>
+<td class="name"><a href="/name/nm0000166">Helen Hunt</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119822/">As Good as It Gets</a></td>
+<td class="birth_date">15 June 1963</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="354081" class="list_item compact odd">
+<td class="listorian">93.</td>
+<td class="name"><a href="/name/nm0004266">Anne Hathaway</a></td>
+<td class="known_for">Actress, <a href="/title/tt0458352/">The Devil Wears Prada</a></td>
+<td class="birth_date">12 November 1982</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354085" class="list_item compact even">
+
+<td class="listorian">94.</td>
+<td class="name"><a href="/name/nm0915208">Naomi Watts</a></td>
+<td class="known_for">Actress, <a href="/title/tt0360717/">King Kong</a></td>
+<td class="birth_date">28 September 1968</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354088" class="list_item compact odd">
+<td class="listorian">95.</td>
+<td class="name"><a href="/name/nm0000639">Ally Sheedy</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0088847/">The Breakfast Club</a></td>
+<td class="birth_date">13 June 1962</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354093" class="list_item compact even">
+<td class="listorian">96.</td>
+<td class="name"><a href="/name/nm0000204">Natalie Portman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0434409/">V for Vendetta</a></td>
+
+<td class="birth_date">9 June 1981</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354096" class="list_item compact odd">
+<td class="listorian">97.</td>
+<td class="name"><a href="/name/nm0000106">Drew Barrymore</a></td>
+<td class="known_for">Actress, <a href="/title/tt0117571/">Scream</a></td>
+<td class="birth_date">22 February 1975</td>
+<td class="created">11 months ago</td>
+
+</tr>
+
+<tr data-item-id="354101" class="list_item compact even">
+<td class="listorian">98.</td>
+<td class="name"><a href="/name/nm0424060">Scarlett Johansson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0335266/">Lost in Translation</a></td>
+<td class="birth_date">22 November 1984</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354108" class="list_item compact odd">
+
+<td class="listorian">99.</td>
+<td class="name"><a href="/name/nm0000270">Gabrielle Anwar</a></td>
+<td class="known_for">Actress, <a href="/title/tt0105323/">Scent of a Woman</a></td>
+<td class="birth_date">4 February 1970</td>
+<td class="created">11 months ago</td>
+</tr>
+
+<tr data-item-id="354116" class="list_item compact even">
+<td class="listorian">100.</td>
+<td class="name"><a href="/name/nm0000173">Nicole Kidman</a></td>
+
+<td class="known_for">Actress, <a href="/title/tt0203009/">Moulin Rouge!</a></td>
+<td class="birth_date">20 June 1967</td>
+<td class="created">11 months ago</td>
+</tr>
+
+</table>
+

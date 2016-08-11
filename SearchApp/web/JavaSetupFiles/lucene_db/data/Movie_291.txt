@@ -1,0 +1,9 @@
+ Movie Name : Guy X; 
+ Directed by : Saul Metzstein ; 
+ Produced by : Mike Downey ; 
+ Written by : Steve Attridge 	John Paul Chapple 	John Griesemer ; 
+ Starring : Jason Biggs Natascha McElhone Jeremy Northam Michael Ironside ; 
+ Release date(s) :  14 October 2005 ; 
+ Running time : 101 min. ; 
+ Language : English ; 
+Link : http://en.wikipedia.org/wiki/Guy_X
