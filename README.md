@@ -4,12 +4,12 @@
 
 ### Software Requirements
  - Git Bash: https://git-scm.com/
- - Any latest version of Eclipse
+ - Eclipse
  - Apache Tomcat: http://apache.spinellicreations.com/tomcat/tomcat-8/v8.0.39/bin/apache-tomcat-8.0.39.zip
  
 ### Download the Code
- - On GitBash, `git clone https://github.com/meelivyas11/SearchMovieApp.git`
- - Open the project 'SearchMovieApp' from eclipse IDE
+ - Clone the repository using `git clone https://github.com/meelivyas11/SearchMovieApp.git` from Git Bash
+ - Open the repository 'SearchMovieApp' from eclipse IDE
  - Import 'SearchApp' Project (`File->Import->General->Existing Project into Workspace`) from eclipse IDE
  
 ### Build
