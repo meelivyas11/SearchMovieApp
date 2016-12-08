@@ -21,4 +21,6 @@
 ### Running
  - Start the Server
  - Open `http://localhost:8080/SearchApp/` from your web browser
+ - Enter the name of the any actor, actress or movie and Search
+ - Once you get some search results, you can click the link in the result to redirect to the wiki pages associated to the result
  
