@@ -1,5 +1,6 @@
-# Search Movie App
+# What is it?
 
+# How do I set up?
 ## Software Requirements
  - Git Bash: https://git-scm.com/
  - Eclipse
@@ -12,9 +13,9 @@
  - Resolve the build path erros by re-adding the jars present in Jars folder of the repository
  - Fix the Target runtime error by creating a new `Apache Tomcat v8.0` server
  - Clean and Build the Project
-  
-## Running the Application
  - Start the Server
+ 
+# How do I use it?
  - Open `http://localhost:8080/SearchApp/` from your web browser
  - Enter the name of the any actor, actress or movie and Search
  - Once you get some search results, you can click the link in the result to redirect to the wiki pages associated to the result
