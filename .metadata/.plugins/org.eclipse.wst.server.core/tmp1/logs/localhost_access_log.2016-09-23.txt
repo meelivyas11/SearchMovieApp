@@ -1,4 +1,0 @@
-127.0.0.1 - - [23/Sep/2016:13:48:38 -0400] "GET / HTTP/1.1" 404 994
-0:0:0:0:0:0:0:1 - - [23/Sep/2016:13:48:41 -0400] "GET /SearchApp/ HTTP/1.1" 200 923
-0:0:0:0:0:0:0:1 - - [23/Sep/2016:13:48:41 -0400] "GET /SearchApp/app/FunctionsSearch.js HTTP/1.1" 404 1058
-0:0:0:0:0:0:0:1 - - [23/Sep/2016:13:48:51 -0400] "POST /SearchApp/NavigatingServlet HTTP/1.1" 200 16343
