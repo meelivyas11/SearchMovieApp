@@ -25,7 +25,7 @@
 		</form>
 	
 	</div>
-	<div class="backgroundImg_transparency" style="height: 670px"></div>
+	<div class="backgroundImg_transparency" style="height: 850px"></div>
 	</div>
 	
 </body>

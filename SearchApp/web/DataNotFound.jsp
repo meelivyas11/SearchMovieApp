@@ -19,7 +19,7 @@
 	<tab align=right> To Return To Home Page Click <A HREF="index.jsp">here</A>
 	<H2 align="center"><b>Data Not Found</b></H2>
 	</div>
-	<div class="backgroundImg_transparency" style="height: 670px"></div>
+	<div class="backgroundImg_transparency" style="height: 850px"></div>
 	</div>
 </body>
 </html>
