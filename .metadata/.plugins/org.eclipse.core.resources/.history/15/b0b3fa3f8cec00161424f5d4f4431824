@@ -1,0 +1,21 @@
+.backgroundImg {
+    position: relative;
+    vertical-align: middle;
+}
+
+.backgroundImg_transparency {
+    background: url(../images/background.png);
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: .1;
+}
+
+.Data {
+	padding-left: 5%;
+    position: relative;
+    z-index: 1;
+ }

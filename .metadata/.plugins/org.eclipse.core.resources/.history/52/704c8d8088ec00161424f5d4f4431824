@@ -1,0 +1,64 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="css/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<title>SearchApp</title>
+<style>
+.backgroundImg {
+    position: relative;
+    vertical-align: middle;
+}
+
+.backgroundImg_transparency {
+    background: url(images/background.png);
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: .1;
+    height: 670px;
+}
+
+.Search {
+	padding-left: 5%;
+    position: relative;
+    z-index: 1;
+ }
+
+.buttonStyle {
+border: black;
+background: #FFF url('images/Searchbutton.png') no-repeat;
+width: 35px;
+height: 35px;
+vertical-align: middle;
+}
+</style>
+</head>
+<body >
+<header class="w3-light-grey w3-container w3-center w3-padding-32"> 
+  <h1><b>Moviepedia</b></h1>
+</header>
+
+	<div class = "backgroundImg">
+	<div class = "Search"> 
+		<br><br>
+		<form action="NavigatingServlet" method="post">
+		<b>
+		<input id="SearchBox" name="SearchBox" type="text" size="30" placeholder = "Enter Keyword"/> 
+		<!-- <INPUT TYPE="submit" id="actionButton" name="actionButton" VALUE="Search"> -->
+		<INPUT TYPE="submit" id="actionButton" name="actionButton" value="" class="buttonStyle">
+		<INPUT TYPE="submit" id="actionButton" name="actionButton" VALUE="Reset And Search"> </b>
+		</form>
+	
+	</div>
+	<div class="backgroundImg_transparency"></div>
+	</div>
+	
+</body>
+</html>
